@@ -1,6 +1,6 @@
-# `template-react`
+# React - The Full Course (Fireship.io)
 
-Template for React repositories
+- https://fireship.io/courses/react/
 
 ## Getting started
 
