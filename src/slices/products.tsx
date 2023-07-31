@@ -18,7 +18,7 @@ export const productsSlice = createSlice({
       api.endpoints.getProducts.matchFulfilled,
       (state, action) => {
         state.products = action.payload;
-      }
+      },
     );
   },
 });
